@@ -5,9 +5,9 @@
 
 #define BAUDRATE        115200
 #define SCREEN_WIDTH    128
-#define SCREEN_HEIGHT   32
+#define SCREEN_HEIGHT   64
 #define OLED_RESET      -1
-#define SCREEN_ADDRESS  0x3C
+#define SCREEN_ADDRESS  0x3c
 
 // button pin
 #define MENU_BUTTON_PIN 5
